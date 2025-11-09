@@ -1,6 +1,8 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=33CCFF&center=true&vCenter=true&width=800&height=70&lines=Ready%2C+Aim%2C+Code!+%F0%9F%94%A5+Navaraja+Mannepalli;Aspiring+Data+Engineer+with+FPS+Gamer+Spirit" alt="Typing SVG" />
+<p align="center" style="display: flex; align-items: center; justify-content: center; gap: 12px;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=33CCFF&center=true&vCenter=true&width=800&height=70&lines=Ready%2C+Aim%2C+Code!+%F0%9F%94%A5+Navaraja+Mannepalli;Aspiring+Data+Engineer+with+FPS+Gamer+Spirit" alt="Typing SVG" style="vertical-align: middle;" />
+  <img src="https://media.tenor.com/ob_WXWjwtPQAAAAC/contra.gif" alt="Contra GIF" width="60" height="40" style="vertical-align: middle; margin-left: 16px;" />
 </p>
+
 ---
 
 ### 🎮 About Me
