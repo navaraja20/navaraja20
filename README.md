@@ -1,11 +1,6 @@
 <p align="center">
-  <img src="https://64.media.tumblr.com/8ae87540f3912cc1a979270881ade806/tumblr_oso3j6VS7t1qbw2q1o7_1280.gif" alt="Contra Intro" width="540"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=33CCFF&center=true&vCenter=true&width=800&height=70&lines=Ready%2C+Aim%2C+Code!+%F0%9F%94%A5+Navaraja+Mannepalli;Aspiring+Data+Engineer+with+FPS+Gamer+Spirit" alt="Typing SVG" />
 </p>
-
-<h1 align="center">
-  <img src="https://img.icons8.com/color/48/000000/video-game-console.png" height="40"/> Contra Mode: Data Engineering <img src="https://img.icons8.com/color/48/000000/video-game-controller.png" height="40"/>
-</h1>
-
 ---
 
 ### 🎮 About Me
