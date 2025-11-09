@@ -1,68 +1,80 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=28&pause=1000&color=1F5FFF&center=true&vCenter=true&width=800&height=70&lines=Hi,+I'm+Navaraja+Mannepalli+%F0%9F%91%8B;Aspiring+Data+Engineer+%F0%9F%9A%80;Passionate+about+cloud+%26+ML+projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=33CCFF&center=true&vCenter=true&width=800&height=70&lines=Ready%2C+Aim%2C+Code!+%F0%9F%94%A5+Navaraja+Mannepalli;Aspiring+Data+Engineer+with+FPS+Gamer+Spirit" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🌟 About Me
-
-- 🎓 **EPITA School of Engineering and Computer Science, France**
-- 🔍 **Aspiring Data Engineer** | Focused on data pipelines, ML, and cloud solutions
-- 🧑‍💻 Always learning, always building—see my highlighted projects below!
-
----
-
-### 🛠️ Tech Stack & Tools
-
-![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat-square&logo=python&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E.svg?style=flat-square&logo=amazon-aws&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939.svg?style=flat-square&logo=jenkins&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032.svg?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-1a73e8?style=flat-square&logo=mysql&logoColor=white)  
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FFC107?style=flat-square)
-![Data Engineering](https://img.shields.io/badge/Data%20Engineering-1976D2?style=flat-square)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+<p align="center">
+  <!-- Replace with your favorite game logo or add your gamer avatar here -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Counter-Strike_Global_Offensive_logo.svg/2560px-Counter-Strike_Global_Offensive_logo.svg.png" width="180" alt="CSGO Logo"/>
+</p>
 
 ---
 
-### 🚀 Featured Projects
+### 🎯 About Me
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [Employee Performance Prediction](https://github.com/navaraja20/Employee-performance-prediction) | Predicts employee performance using ML on past data. <br><img src="https://img.icons8.com/color/48/000000/line-chart.png" alt="Performance Chart" width="32"/> | Python, ML, Data Analysis |
-| [Credit Card Defaulter](https://github.com/navaraja20/Credit_Card_Defaulter_main) | Predicts credit card defaulters for banks. | Python, ML, SQL |
-| [JenkinsBuildUsingAWS](https://github.com/navaraja20/JenkinsBuildUsingAWS) | CI/CD pipeline with Jenkins and AWS for seamless deployment. <br><img src="https://img.icons8.com/color/48/000000/cloud.png" alt="Cloud Icon" width="32"/> | Jenkins, AWS, Docker |
-| [dsp_navaraja_mannepalli](https://github.com/navaraja20/dsp_navaraja_mannepalli) | Signal processing and data exploration projects. | Python, Data Science |
+- Python sniper, always on target for new tech 🔫
+- EPITA, France – training to deploy AI and data skills on a grand scale
+- Mission: Build machine learning pipelines to "frag" data bottlenecks
 
 ---
 
-### 📈 GitHub Stats & Activity
+### 🚀 FPS Skills & Arsenal
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![SQL](https://img.shields.io/badge/SQL-1a73e8?style=for-the-badge&logo=mysql)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Linux](https://img.shields.io/badge/Linux-333?style=for-the-badge&logo=linux)
+
+---
+
+### 🏆 Achievements & Game Stats
+
+| Achievements        | Points | Gaming Badge               |
+|---------------------|--------|----------------------------|
+| Multilanguage Dev   | 14pt   | ![](https://img.icons8.com/color/48/000000/weapon.png)  |
+| Stars Collector     | 3.5kpt | ![](https://img.icons8.com/color/48/000000/star.png)     |
+| Repo Captain        | 60pt   | ![](https://img.icons8.com/color/48/000000/award.png)    |
+| Contributor         | 2.8kpt | ![](https://img.icons8.com/color/48/000000/torch.png)    |
+| Issue Slayer        | 24pt   | ![](https://img.icons8.com/color/48/000000/bomb.png)     |
+| Reviewer Pro        | 17pt   | ![](https://img.icons8.com/color/48/000000/radar.png)    |
+
+---
+
+### 🔫 Shooting Range (Contributions Map)
+
+<!-- Custom FPS-styled map (gif or svg): add here or use widget below -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=navaraja20&show_icons=true&theme=github_dark&hide_title=true" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navaraja20&layout=compact&theme=github_dark" height="170">
-  <br>
-  <img src="https://streak-stats.demolab.com?user=navaraja20&theme=github-dark-blue&hide_border=true&date_format=n%2Fd%5B%2FY%5D" height="130">
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=navaraja20&color=blue" alt="Profile views">
+  <img src="https://github.com/navaraja20/navaraja20/blob/main/fps_map.gif" height="110"/>
+  <!-- Alternatively, use the contribution graph -->
+  <img src="https://streak-stats.demolab.com?user=navaraja20&theme=github-dark-blue&hide_border=true&date_format=n%2Fd%5B%2FY%5D&fire=FF5500" height="130"/>
 </div>
 
 ---
 
-### 📚 Currently Learning
+### 🕹️ Featured Missions
 
-- ⏩ Advanced Machine Learning, Cloud Data Pipelines, Kubernetes
-
----
-
-### 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navaraja-mannepalli)
-[![Email](https://img.shields.io/badge/Email-D14836.svg?style=flat-square&logo=gmail&logoColor=white)](mailto:nava-raja.mannepalli@epita.fr)
+| Project                              | Weapon Used      | Status        |
+|---------------------------------------|------------------|---------------|
+| [Employee Performance Prediction](https://github.com/navaraja20/Employee-performance-prediction) | Machine Gun (ML) | 🔥 Deployed   |
+| [Jenkins Build Using AWS](https://github.com/navaraja20/JenkinsBuildUsingAWS)                 | Shotgun (AWS)    | 🟢 Live       |
+| [Credit Card Defaulter](https://github.com/navaraja20/Credit_Card_Defaulter_main)              | Laser (Data)     | 💡 Finished   |
 
 ---
 
+### 🗺️ Side Quests: Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navaraja-mannepalli)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nava-raja.mannepalli@epita.fr)
+
+---
+
+<!-- FPS and gaming theme footer -->
 <p align="center">
-  <b>Let's automate data, build great things, and learn together! 🚀</b>
+  <img src="https://img.icons8.com/color/96/000000/sniper.png"/>
+  <br />
+  <b>Reloading skills, leveling up data. Join my squad!</b>
 </p>
