@@ -1,6 +1,6 @@
 <h1 align="center">💠 Welcome 👋, 𝘐'𝘮 𝘕𝘢𝘷𝘢𝘳𝘢𝘫𝘢! 💠</h1>
 <div align="center">
-  <img width="500" height="auto" src="E:\navaraja20\3k2ef5mxm5ma1.gif">
+  <img width="500" height="auto" src="navaraja20\3k2ef5mxm5ma1.gif">
 </div>
 
 <br>
