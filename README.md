@@ -1,6 +1,6 @@
 <h1 align="center">💠 Welcome 👋, 𝘐'𝘮 𝘕𝘢𝘷𝘢𝘳𝘢𝘫𝘢! 💠</h1>
 <div align="center">
-  <img width="720" height="auto" src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif">
+  <img width="500" height="auto" src="https://i.imgur.com/your-uploaded-image.gif">
 </div>
 
 <br>
