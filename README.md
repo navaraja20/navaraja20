@@ -49,7 +49,7 @@
 | Project | Tech Stack | Status |
 |---------|-----------|--------|
 | [Employee Performance Prediction](https://github.com/navaraja20/Employee-performance-prediction) | Machine Learning | 🔥 Deployed |
-| [JenkinsBuildUsingAWS](https://github.com/navaraja20/JenkinsBuildUsingAWS) | AWS, Jenkins, CI/CD | 🟢 Live |
+| [JenkinsBuildUsingAWS](https://github.com/navaraja20/JenkinsBuildUsingAWS) | AWS, Jenkins, CI/CD | 💡 Finished  |
 | [Credit Card Defaulter](https://github.com/navaraja20/Credit_Card_Defaulter_main) | Data Analysis, ML | 💡 Finished |
 
 </div>
