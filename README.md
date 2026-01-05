@@ -64,7 +64,7 @@
   <a href="https://github.com/anuraghazra/github-readme-stats"><img width="540" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navaraja20&layout=compact&theme=github_dark&hide_border=true" /></a>
 </div>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=navaraja20&theme=github-dark-blue&hide_border=true&date_format=n%2Fd%5B%2FY%5D&fire=FF5500"/>
+  <img src="Add_ons/WWW.gif" width="460px" height="auto" align="center">
 </div>
 
 <br>
