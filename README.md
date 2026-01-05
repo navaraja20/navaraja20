@@ -8,11 +8,11 @@
 <h1 align="center">𝗔𝗕𝗢𝗨𝗧 𝗠𝗘</h1>
 <div align="center">
 <ul>
-  <li> 🎓 Currently studying at <b>EPITA, France</b></li>
-  <li> 🔭 I'm currently working on <b>ML & Cloud deployment projects</b></li>
-  <li> 💼 Data Engineer specializing in <b>AWS, Python, and ML pipelines</b></li>
-  <li> 🎮 Gaming enthusiast with <b>FPS gamer spirit</b></li>
-  <li> 📫 How to reach me: <b>nava-raja.mannepalli@epita.fr</b></li>
+  <p align = "center"> 🎓 Currently studying at <b>EPITA, France<br></p>
+  <p align = "center"> 🔭 I'm currently working on <b>ML & Cloud deployment projects<br></p>
+  <p align = "center"> 💼 Data Engineer specializing in <b>AWS, Python, and ML pipelines<br></p>
+  <p align = "center"> 🎮 Gaming enthusiast with <b>FPS gamer spirit<br></p>
+  <p align = "center"> 📫 How to reach me: <b>nava-raja.mannepalli@epita.fr<br></p>
 </ul>
 
 <img src="Add_ons/light.gif" width="460px" height="auto" align="center">
