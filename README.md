@@ -14,7 +14,7 @@
   <li> 🎮 Gaming enthusiast with <b>FPS gamer spirit</b></li>
   <li> 📫 How to reach me: <b>nava-raja.mannepalli@epita.fr</b></li>
 </ul>
-
+<img src="Add_ons/king.gif" width="460px" height="auto" align="center">
 <br>
 
 <div>
