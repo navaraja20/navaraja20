@@ -58,10 +58,10 @@
 
 <h1 align="center">𝗦𝗧𝗔𝗧𝗦</h1>
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img width="540" height="auto" src="https://github-readme-stats.vercel.app/api?username=navaraja20&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="Navaraja's github stats" /></a> 
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img width="540" height="auto" src="https://github-readme-stats-sigma-five.vercel.app/api?username=navaraja20&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="Navaraja's github stats" /></a> 
 </div>
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img width="540" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navaraja20&layout=compact&theme=github_dark&hide_border=true" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img width="540" height="auto" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=navaraja20&layout=compact&theme=github_dark&hide_border=true" /></a>
 </div>
 <div align="center">
   <img src="Add_ons/WWW.gif" width="460px" height="auto" align="center">
