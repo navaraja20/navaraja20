@@ -6,7 +6,7 @@
 <br>
 
 <h1 align="center">𝗔𝗕𝗢𝗨𝗧 𝗠𝗘</h1>
-
+<div align='center>
 <ul>
   <li> 🎓 Currently studying at <b>EPITA, France</b></li>
   <li> 🔭 I'm currently working on <b>ML & Cloud deployment projects</b></li>
@@ -14,7 +14,7 @@
   <li> 🎮 Gaming enthusiast with <b>FPS gamer spirit</b></li>
   <li> 📫 How to reach me: <b>nava-raja.mannepalli@epita.fr</b></li>
 </ul>
-<div>
+
 <img src="Add_ons/light.gif" width="460px" height="auto" align="center">
 </dev>
 <br>
